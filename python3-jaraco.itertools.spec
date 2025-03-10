@@ -7,7 +7,7 @@ Summary:	jaraco.itertools module
 Summary(pl.UTF-8):	Moduł jaraco.itertools
 Name:		python3-jaraco.itertools
 Version:	6.4.1
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/jaraco-itertools/
